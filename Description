@@ -1,0 +1,21 @@
+Release Notes (v1.0.0)
+HOL2 SaveGuard v1.0.0 — Initial Release
+Automatic save backup and restore tool for High On Life 2.
+Features:
+
+Automatic backups every 10 minutes (configurable) with change detection
+One-click restore with safety backup before overwriting
+All save slots supported (Slot0, Slot1, Slot2)
+Interactive menu — no code editing required
+Portable — extract and run, no install needed
+Locked file retry handling for mid-save safety
+Configurable retention (max backups, max age)
+Optional auto-start on Windows login
+
+How to use:
+
+Extract the zip anywhere
+Double-click Launch_SaveGuard.bat
+Press 1 to start monitoring
+Play the game
+Attach HOL2_SaveGuard_v1.0.zip as a release asset
